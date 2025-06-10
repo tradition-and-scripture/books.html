@@ -1,5 +1,4 @@
 # books.html
-# books.html
 <!DOCTYPE html>
 <html lang="bg">
 <head>
